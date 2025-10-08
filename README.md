@@ -6,13 +6,14 @@
 
 <!-- Quick badges -->
 <p align="center">
-  <a href="mailto:🔧amansaee@outlook.com"><img src="https://img.shields.io/badge/Email-contact-1f6feb?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aman-asher-saeed-86550534a//](https://www.linkedin.com/in/aman-asher-saeed-86550534a/)"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://aman1350.github.io/🔧portfolio"><img src="https://img.shields.io/badge/Portfolio-visit-06d6a0?style=for-the-badge"></a>
+  <a href="mailto:amansaee@outlook.com"><img src="https://img.shields.io/badge/Email-contact-1f6feb?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/aman-asher-saeed-86550534a/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://aman1350.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-visit-06d6a0?style=for-the-badge"></a>
   <img src="https://komarev.com/ghpvc/?username=aman1350&style=for-the-badge&color=yellow" alt="profile views"/>
 </p>
 
 ---
+
 
 ## 🧑‍💻 Personal stuff
 - 🎯 Fokuserer på: **Web apps**, **API-er**, **datahåndtering**
