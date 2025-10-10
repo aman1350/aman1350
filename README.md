@@ -43,13 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux"/>
 </p>
@@ -62,8 +60,8 @@
 
 ---
 
-## 📌 Pinned projects
-<!-- Bytt ut repo-navnene under til faktiske repos for å få "kort" automatisk -->
+## 📌 Pinned projects | 🔧Kommer snart
+<!-- Bytt ut repo-navnene under til faktiske repos for å få "kort" automatisk 
 <p align="left">
   <a href="https://github.com/aman1350/🔧repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aman1350&repo=🔧repo1&theme=tokyonight" /></a>
   <a href="https://github.com/aman1350/🔧repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aman1350&repo=🔧repo2&theme=tokyonight" /></a>
@@ -72,7 +70,7 @@
   <a href="https://github.com/aman1350/🔧repo3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aman1350&repo=🔧repo3&theme=tokyonight" /></a>
   <a href="https://github.com/aman1350/🔧repo4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aman1350&repo=🔧repo4&theme=tokyonight" /></a>
 </p>
-
+-->
 ---
 
 ## 🏆 Achievements (valgfritt)
